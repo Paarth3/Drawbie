@@ -10,7 +10,7 @@ import { getFirestore } from "firebase/firestore";
 import { connectStorageEmulator, getStorage } from "firebase/storage";
 
 // --- SETUP: YOUR LOCAL IP ---
-const LOCAL_IP = "169.254.141.181"; // <--- CHANGE THIS
+const LOCAL_IP = "172.20.10.2"; // <--- CHANGE THIS
 
 const firebaseConfig = {
 	apiKey: "AIzaSyDGKj2XbLbIh4jcxtrisACF_XnrmzhBSxI",
