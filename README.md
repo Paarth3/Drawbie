@@ -2,9 +2,8 @@
 
 > **Your Personal Digital Closet & Outfit Visualizer**
 
-<div align="center"> <video src="Drawbie__Demo.mp4" width="100%" controls="true"></video>
+[![Watch the Drawbie Demo](https://img.youtube.com/vi/ldMXOr4vasQ/maxresdefault.jpg)](https://youtu.be/ldMXOr4vasQ)
 
-  
 
 <em>Watch the demo video above to see Drawbie in action.</em> </div>
 
